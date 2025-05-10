@@ -1,3 +1,4 @@
 # abd-repo
 This is my first repository.
-author - Mohammed Abdul Farhaan
+<br>
+Author - Mohammed Abdul Farhaan
